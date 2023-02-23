@@ -18,4 +18,3 @@ app.use(routes);
   });
 });
 
-// mongoose.set('strictQuery', false);
